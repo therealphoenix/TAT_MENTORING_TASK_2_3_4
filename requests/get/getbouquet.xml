@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<adminservice>		
+      <command>getbouquet</command>
+        <flower>
+       <id>2</id>
+       <quantity>3</quantity>
+        </flower>
+      <flower>
+            <id>1</id>
+            <quantity>3</quantity>
+      </flower>
+      <flower>
+            <id>3</id>
+            <quantity>1</quantity>
+      </flower>
+</adminservice>     
+    

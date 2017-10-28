@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="task3tests" parallel="classes" thread-count="10">
+    <test name="xml-test" preserve-order="true" >
+       <classes>
+         <class name = "com.klindziuk.flowershop.server.test.AddFlowerRequestTest"></class>
+         <class name = "com.klindziuk.flowershop.server.test.CommandRequestTest"></class>
+         <class name = "com.klindziuk.flowershop.server.test.DeleteFlowerByIdRequestTest"></class>
+         <class name = "com.klindziuk.flowershop.server.test.FindByRequestTest"></class>
+         <class name = "com.klindziuk.flowershop.server.test.GetAllRequestTest"></class>
+         <class name = "com.klindziuk.flowershop.server.test.GetFlowerRequestTest"></class>
+          </classes>
+    </test>
+</suite>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>deleteflowerbyid</command>
+	<id>9</id>
+</adminservice>     

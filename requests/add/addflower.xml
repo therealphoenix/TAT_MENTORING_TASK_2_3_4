@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>addflower</command>
+	<name>Chain</name>
+	<price>4.2</price>
+	<country>Russia</country>
+</adminservice>     
